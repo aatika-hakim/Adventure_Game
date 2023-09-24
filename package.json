@@ -1,5 +1,5 @@
 {
-  "name": "adventure_game",
+  "name": "at-adventure-game",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./game.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
